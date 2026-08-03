@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "FCKIFXEbEJG643y8VEAvC"
+uri = "file://TECHNICAL_PRD.md"
+type = "text"
+title = "Molada Pay — Technical PRD"
